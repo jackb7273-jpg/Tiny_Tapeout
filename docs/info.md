@@ -6,14 +6,14 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
---currently just a test of random design
+
 ## How it works
 
-Explain how your project works
+--currently just a test of random design
 
 ## How to test
 
-Explain how to use your project
+--currently just a test of random design
 
 ## External hardware
 
